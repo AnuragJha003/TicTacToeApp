@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TICTACTOE</string>
+    <string name="A">WELCOME TO TIC TAC TOE</string>
+    <string name="B">Our main grid</string>
+    <string name="C">Welcome to  TTT</string>
+    <string name="D">X\'s turn tap to play</string>
+    <string name="E">TIKI TAKA</string>
+</resources>
